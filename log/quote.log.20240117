@@ -1,0 +1,41 @@
+[12:19:06.769.732][4912][INFO][XTP:0][init_log_file]:End: ./log/quote.log, api version : 2.2.37
+[12:19:06.769.918][4912][DEBUG][XTP:0]Begin to register quote service function.
+[12:19:06.770.659][4912][DEBUG][XTP:0]register service function ok(2250).
+[12:19:06.770.673][4912][DEBUG][XTP:0]register service function ok(2001).
+[12:19:06.770.684][4912][DEBUG][XTP:0]register service function ok(2002).
+[12:19:06.770.695][4912][DEBUG][XTP:0]register service function ok(2003).
+[12:19:06.770.706][4912][DEBUG][XTP:0]register service function ok(2200).
+[12:19:06.770.718][4912][DEBUG][XTP:0]register service function ok(2201).
+[12:19:06.770.728][4912][DEBUG][XTP:0]register service function ok(2202).
+[12:19:06.770.739][4912][DEBUG][XTP:0]register service function ok(2210).
+[12:19:06.770.910][4912][DEBUG][XTP:0]register service function ok(2211).
+[12:19:06.770.921][4912][DEBUG][XTP:0]register service function ok(2212).
+[12:19:06.770.927][4912][DEBUG][XTP:0]register service function ok(51).
+[12:19:06.770.931][4912][DEBUG][XTP:0]register service function ok(53).
+[12:19:06.770.936][4912][DEBUG][XTP:0]register service function ok(9).
+[12:19:06.770.941][4912][DEBUG][XTP:0]register service function ok(2005).
+[12:19:06.770.945][4912][DEBUG][XTP:0]register service function ok(2006).
+[12:19:06.770.950][4912][DEBUG][XTP:0]register service function ok(2205).
+[12:19:06.770.955][4912][DEBUG][XTP:0]register service function ok(2206).
+[12:19:06.770.959][4912][DEBUG][XTP:0]register service function ok(2215).
+[12:19:06.770.963][4912][DEBUG][XTP:0]register service function ok(2216).
+[12:19:06.770.968][4912][DEBUG][XTP:0]register service function ok(2012).
+[12:19:06.770.972][4912][DEBUG][XTP:0]register service function ok(2018).
+[12:19:06.770.977][4912][DEBUG][XTP:0]register service function ok(2220).
+[12:19:06.770.981][4912][DEBUG][XTP:0]register service function ok(2222).
+[12:19:06.770.986][4912][DEBUG][XTP:0]register service function ok(2224).
+[12:19:06.770.990][4912][DEBUG][XTP:0]register service function ok(2251).
+[12:19:06.770.995][4912][DEBUG][XTP:0]register service function ok(2253).
+[12:19:06.770.999][4912][DEBUG][XTP:0]register service function ok(2254).
+[12:19:06.771.004][4912][DEBUG][XTP:0]register service function ok(2230).
+[12:19:06.771.008][4912][DEBUG][XTP:0]register service function ok(2232).
+[12:19:06.771.012][4912][DEBUG][XTP:0]End to register quote service function 1.
+[12:19:09.088.085][4912][INFO][XTP:0]253191003308 begin to login to quote server 119.3.103.38:6002.
+[12:19:09.202.005][4912][DEBUG][XTP:0]Receive login info from quote server.
+[12:19:09.202.037][4912][INFO][XTP:0]Receive trading day 20240117 from quote server success.
+[12:19:09.202.049][4912][INFO][XTP:0]Receive md udp group 230.1.7.45 : 7771 from quote server success.
+[12:19:09.202.054][4912][INFO][XTP:0]Receive tbt udp group 230.1.7.45 : 7771 from quote server success.
+[12:19:09.202.059][4912][INFO][XTP:0]Receive ob udp group 230.1.7.45 : 7771 from quote server success.
+[12:19:09.202.064][4912][INFO][XTP:0]Receive optmd udp group 230.1.7.45 : 7771 from quote server success.
+[12:19:09.202.217][4912][DEBUG][XTP:0]api_login_server successful: 426770432.
+[12:19:09.202.231][4912][INFO][XTP:0]Connect to quote server 119.3.103.38:6002 success.

@@ -1,0 +1,84 @@
+﻿  FileUtils.cpp
+  IParser.cpp
+  lockfreeBuffer.cpp
+  main.cpp
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xtp_quote_api.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xquote_api_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_struct.h(726,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_struct.h(1284,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_fund_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xquote_api_rebuild_tbt_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xtp_quote_api.h(383,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+  msgQueue.cpp
+  parserXTP.cpp
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xtp_quote_api.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“parserXTP.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xquote_api_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“parserXTP.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“parserXTP.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_struct.h(726,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“parserXTP.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_struct.h(1284,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“parserXTP.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_fund_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“parserXTP.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xquote_api_rebuild_tbt_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“parserXTP.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xtp_quote_api.h(383,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“parserXTP.cpp”)
+  
+  sStarTrade.cpp
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xtp_quote_api.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sStarTrade.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xquote_api_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sStarTrade.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sStarTrade.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_struct.h(726,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sStarTrade.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_struct.h(1284,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sStarTrade.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xoms_api_fund_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sStarTrade.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xquote_api_rebuild_tbt_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sStarTrade.cpp”)
+  
+D:\c++proj\sStarTrade\dependence\src\XTP2.2.37.4\include\xtp_quote_api.h(383,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“sStarTrade.cpp”)
+  
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 421 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  sStarTrade.vcxproj -> D:\c++proj\sStarTrade\x64\Release\sStarTrade.exe
